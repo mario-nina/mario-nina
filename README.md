@@ -7,7 +7,7 @@ Engineering Student
 ## Contact
 
 **Email**: malber5824@gmail.com
-**GitHub**: [@malber5824](https://github.com/malber5824)
+**GitHub**: [@mario-nina](https://github.com/mario-nina)
 
 ---
 *Portfolio under construction - public repositories coming soon.*
