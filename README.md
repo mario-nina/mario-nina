@@ -10,4 +10,3 @@ Engineering Student
 **GitHub**: [@mario-nina](https://github.com/mario-nina)
 
 ---
-*Portfolio under construction - public repositories coming soon.*
